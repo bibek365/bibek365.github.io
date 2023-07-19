@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: ""
 ---
 
 I am a [Ph.D. candidate](/ling607) in the [Department of Agricultural and Biological Engineering](https://abe.ufl.edu/) at the University of Florida. 

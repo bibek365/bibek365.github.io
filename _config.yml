@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Resume", file: "Resume.pdf", icon: Home}
+  - {title: "Resume", file: "https://github.com/bibek365/bibek365.github.io/blob/76666bd7551a814b753c41d86ee533a474b08e37/Resume.pdf", icon: Home}
   - {title: "Blog", file: "Blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

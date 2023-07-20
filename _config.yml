@@ -16,8 +16,8 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Resume", file: "Resume.pdf", icon: home}
-  - {title: "Media", file: "Media.md", icon: File}
+  - {title: "Resume", file: "Resume.pdf", icon: newspaper}
+  - {title: "Media", file: "Media.md", icon: file_folder}
   - {title: "Gallery", file: "Gallery.md", icon: Gallery}
   - {title: "Contact", file: "Contact.md", icon: Envelope}
 

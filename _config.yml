@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Resume", url: "https://raw.github.com/bibek365/bibek365.github.io/7841e227fa27220573aada366586451cf0fe93d7/Resume.pdf"}
+  - {title: "Resume", url: "https://bibek365.github.io/Resume.pdf"}
   - {title: "Blog", file: "Blog.md"}
   - {title: "Gallery", file: "Gallery.md"}
   - {title: "Contact", file: "Contact.md"}

@@ -6,5 +6,5 @@ Nepal, where he developed a keen interest in agricultural water management. He r
 where he focused on [quantifying crop water use](https://www.mdpi.com/2072-4292/13/9/1822) through satellite remote sensing. With the aim of 
 disseminating his research findings, Bibek has presented at several international conferences and has authored [four publications](https://scholar.google.com/citations?user=k5Fv3cMAAAAJ&hl=en) 
 to date. Through his research endeavors, Bibek aspires to develop sustainable approaches to address water quality issues in agricultural settings,
-ultimately striking a balance between improved water quality and agricultural productivity.</p>
+ultimately striking a balance between improved water quality and agricultural productivity.
 

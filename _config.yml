@@ -16,8 +16,10 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "Bio", file: "Bio.md"}
   - {title: "Resume", file: "https://github.com/bibek365/bibek365.github.io/blob/76666bd7551a814b753c41d86ee533a474b08e37/Resume.pdf"}
   - {title: "Blog", file: "Blog.md"}
+  - {title: "Contact", file: "Contact.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:bibekacharya@ufl.edu"}

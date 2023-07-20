@@ -10,8 +10,8 @@ date_format: "%B %d, %Y"
 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true       # show a sidebar instead of the usual header
-minimal: true             # use a dark header
+show_sidebar: false       # show a sidebar instead of the usual header
+minimal: false             # use a dark header
 
 # Menu
 
@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Resume", url: "https://github.com/bibek365/bibek365.github.io/blob/36035c8427d35efa3ced279216b2fd06f564ffa4/Resume.pdf", icon: newspaper}
   - {title: "Blog", file: "Blog.md", icon: books}
   - {title: "Gallery", file: "Gallery.md", icon: camera}
-  - {title: "Contact", file: "Contact.md", icon: Envelope}
+  - {title: "Contact", file: "Contact.md", icon: envelope}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://bibek365.github.io"}

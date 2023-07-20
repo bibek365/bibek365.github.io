@@ -26,7 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://bibek365.github.io"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/bibekUF"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/bbkacharya/"}
-  - {title: GoogleScholar, icon: GoogleScholar, url: "https://scholar.google.com/citations?user=k5Fv3cMAAAAJ&hl=en"}
+  - {title: Google, icon: Google, url: "https://scholar.google.com/citations?user=k5Fv3cMAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

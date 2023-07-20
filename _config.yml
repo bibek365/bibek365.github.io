@@ -16,11 +16,12 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Resume", url: "https://bibek365.github.io/Resume.pdf"}
+  - {file: "index.html"}
   - {title: "Blog", file: "Blog.md"}
   - {title: "Gallery", file: "Gallery.md"}
+  - {title: "Resume", url: "https://bibek365.github.io/Resume.pdf"}
   - {title: "Contact", file: "Contact.md"}
-  - {file: "index.html"}
+ 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://bibek365.github.io"}

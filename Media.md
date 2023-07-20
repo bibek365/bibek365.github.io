@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Media"
 layout: page
 ---
 

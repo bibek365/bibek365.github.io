@@ -2,7 +2,7 @@
 title: ""
 layout: page
 ---
-![Bbk](https://github.com/bibek365/bibek365.github.io/blob/30f01a623b99f759113523ba72dea9532e8db5b4/Bbk.jpg)
+![photo](https://github.com/bibek365/bibek365.github.io/blob/5f476df326fd155894392cee81feae56c71270c0/photo.jpeg)
 
 Bibek is a **Ph.D. Candidate** in the [Department of Agricultural and Biological Engineering](https://abe.ufl.edu/) at the University of Florida.
 He has over eight years of experience in agricultural water and nutrient management, employing a multi-disciplinary approach that includes field research, 

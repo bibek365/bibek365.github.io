@@ -1,6 +1,6 @@
 ---
-layout: page
 title: ""
+layout: page
 ---
 
 {% if site.show_excerpts %}

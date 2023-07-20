@@ -29,7 +29,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Twitter, icon: twitter, url: "https://twitter.com/bibekUF"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/bbkacharya/"}
   - {title: google, icon: google, url: "https://scholar.google.com/citations?user=k5Fv3cMAAAAJ&hl=en"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

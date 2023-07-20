@@ -2,8 +2,9 @@
 layout: page
 title: ""
 ---
+![Alt Text](relative-path-to-your-image.png | width=300 | height=200)
 
-![Bibek Acharya](https://github.com/bibek365/bibek365.github.io/blob/df86064021961cb764432085af6cdcc66f7d833e/Acharya1.jpg) <br>
+![Bibek Acharya](https://github.com/bibek365/bibek365.github.io/blob/df86064021961cb764432085af6cdcc66f7d833e/Acharya1.jpg | width=300 | height=200) <br>
 Bibek is a **Ph.D. Candidate** in the [Department of Agricultural and Biological Engineering](https://abe.ufl.edu/) at the University of Florida.
 He has over eight years of experience in agricultural water and nutrient management, employing a multi-disciplinary approach that includes field research, 
 process-based modeling, remote sensing, and machine learning techniques. Bibek obtained his undergraduate degree in agriculture science from [Tribhuvan University](https://tu.edu.np/),

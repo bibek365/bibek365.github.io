@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Contact Me"
+title: ""
 ---
 
 Email is the best way to get in touch with me. Please feel free to contact me! <br>

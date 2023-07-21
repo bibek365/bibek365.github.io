@@ -3,6 +3,8 @@ layout: page
 title: ""
 ---
 
+![Bibek](Picture.jpeg)
+
 Email is the best way to get in touch with me. Please feel free to contact me! <br>
 
 <a href="tel:PHONE_NUMBER">

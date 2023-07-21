@@ -14,39 +14,13 @@ to date. Through his research endeavors, Bibek aspires to develop sustainable ap
 ultimately striking a balance between improved water quality and agricultural productivity.-->
 
  
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    /* Add background image to the parent container */
-    body {
-      background-image: url("path/to/your/background-image.jpg");
-      background-size: cover;
-      background-repeat: no-repeat;
-      /* Add any other background properties as needed */
-    }
 
-    /* Style the flex container */
-    .flex-container {
-      display: flex;
-    }
-
-    /* Style the left flex item */
-    .left-item {
-      flex: 1;
-    }
-
-    /* Style the right flex item with margin */
-    .right-item {
-      flex: 2;
-      margin-left: 20px;
-    }
-  </style>
 </head>
+ <img src="bg.jpeg" alt="profile"/>
 <body>
   <div class="flex-container">
     <div class="left-item">
-      <img src="Picture.jpeg" alt="Bibek"/>
+      <img src="Picture2.jpeg" alt="Bibek"/>
     </div>
     <div class="right-item">
       Bibek is a <b>Ph.D. Candidate</b> in the <a href="https://abe.ufl.edu/">Department of Agricultural and Biological Engineering</a>

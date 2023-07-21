@@ -8,7 +8,7 @@ title: ""
 Email is the best way to get in touch with me. Please feel free to contact me! <br>
 
 <a href="tel:PHONE_NUMBER">
-  📞 352 562 4682
+  📞 (352) 562-4682
 </a> <br>
 
 <a href="mailto:EMAIL_ADDRESS">

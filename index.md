@@ -30,6 +30,6 @@ process-based modeling, remote sensing, and machine learning techniques. Bibek o
 disseminating his research findings, Bibek has presented at several international conferences and has authored <a href="https://scholar.google.com/citations?user=k5Fv3cMAAAAJ&hl=en">four publications</a>
 to date. Through his research endeavors, Bibek aspires to develop sustainable approaches to address water quality issues in agricultural settings,
 ultimately striking a balance between improved water quality and agricultural productivity.
+    </div>
   </div>
- </div>
 </div>

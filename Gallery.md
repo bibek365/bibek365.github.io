@@ -1,4 +1,4 @@
 ---
-title: "Gallery"
+title: "Please check back for updates!"
 layout: page
 ---

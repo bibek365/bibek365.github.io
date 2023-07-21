@@ -19,7 +19,7 @@ ultimately striking a balance between improved water quality and agricultural pr
     <!-- Your image goes here -->
     <img src="Picture.jpeg" alt="Bibek"/>
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 2; margin-left: 20px;">
     <!-- Your text goes here -->
     Bibek is a <b>Ph.D. Candidate</b> in the <a href="https://abe.ufl.edu/">Department of Agricultural and Biological Engineering</a>
  at the University of Florida. He has over eight years of experience in agricultural water and nutrient management, employing a multi-disciplinary approach that includes field research, 

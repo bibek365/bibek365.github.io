@@ -12,12 +12,18 @@ Email is the best way to get in touch with me. Please feel free to contact me! <
 </a> <br>
 
 <a href="mailto:EMAIL_ADDRESS">
-  📧 bibekacharya@ufl.edu
-</a> <br>
+  📧 bibekacharya@ufl.edu 
+</a> 
+(Primary)
+<br>
+<a href="mailto:EMAIL_ADDRESS">
+  📧 bbkacharya22@gmail.com
+</a> 
+(Secondary)
+<br>
 
 ## Office
-<a href="office:University">
-  🎓 University of Florida
+<a href="https://abe.ufl.edu/"> 🎓 University of Florida</a>
 </a> <br>
 1741 Museum Road <br>
 Gainesville, FL 32611

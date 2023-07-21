@@ -1,4 +1,4 @@
 ---
-title: "Blog"
+title: "Please check back for updates!"
 layout: page
 ---

@@ -23,7 +23,7 @@ Email is the best way to get in touch with me. Please feel free to contact me! <
 <br>
 
 ## Office
-<a href="https://abe.ufl.edu/"> 🎓 University of Florida</a>
+<a href="https://abe.ufl.edu/"> 🎓 University of Florida
 </a> <br>
 1741 Museum Road <br>
 Gainesville, FL 32611

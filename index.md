@@ -13,9 +13,6 @@ disseminating his research findings, Bibek has presented at several internationa
 to date. Through his research endeavors, Bibek aspires to develop sustainable approaches to address water quality issues in agricultural settings,
 ultimately striking a balance between improved water quality and agricultural productivity.-->
 
- 
-
-</head>
  <img src="bg.jpeg" alt="profile"/>
 <body>
   <div class="flex-container">
@@ -34,4 +31,3 @@ ultimately striking a balance between improved water quality and agricultural pr
     </div>
   </div>
 </body>
-</html>

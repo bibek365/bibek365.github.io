@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-![Bibek](Picture2.jpg)
+![Bibek](Picture2.jpeg)
 
 Email is the best way to get in touch with me. Please feel free to contact me! <br>
 

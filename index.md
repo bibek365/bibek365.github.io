@@ -13,7 +13,14 @@ disseminating his research findings, Bibek has presented at several internationa
 to date. Through his research endeavors, Bibek aspires to develop sustainable approaches to address water quality issues in agricultural settings,
 ultimately striking a balance between improved water quality and agricultural productivity.-->
 
- <img src="bg.jpeg" alt="profile"/>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<div class="picture-container">
+ <img src="bg.jpeg" alt="profile" class="fade-in"/>
+ <img src="bg2.jpeg" alt="profile2" class="fade-in"/>
+ <img src="bg3.jpeg" alt="profile3" class="fade-in"/>
+ </div>
 <div style="display: flex;">
   <div style="flex: 1;">
     <img src="Picture.jpeg" alt="Bibek"/>

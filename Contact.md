@@ -24,11 +24,11 @@ Email is the best way to get in touch with me. Please feel free to contact me! <
 <br>
 
 <a href="https://twitter.com/bibekUF">
-   <img src="twitter.jpeg" alt="https://twitter.com/bibekUF" style="width: 50px; height: 50px;"/>
+   <img src="twitter2.jpeg" alt="https://twitter.com/bibekUF"/>
 </a>  
 
 <a href="https://www.linkedin.com/in/bbkacharya/">
-  <img src="linkedin.jpeg" alt="https://www.linkedin.com/in/bbkacharya/" style="width: 50px; height: 50px;"/>
+  <img src="linkedin1.jpeg" alt="https://www.linkedin.com/in/bbkacharya/"/>
 </a>  
 
 <br>

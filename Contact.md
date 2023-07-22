@@ -21,7 +21,6 @@ Email is the best way to get in touch with me. Please feel free to contact me! <
 </a> 
 (Secondary)
 <br>
-<br>
 
 
 <a href="https://twitter.com/bibekUF">

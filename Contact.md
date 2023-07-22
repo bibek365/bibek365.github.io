@@ -23,6 +23,14 @@ Email is the best way to get in touch with me. Please feel free to contact me! <
 <br>
 <br>
 
+<a href= "https://twitter.com/bibekUF"
+</a> 
+
+-{title: Twitter, icon: twitter, url: "https://twitter.com/bibekUF"}
+-{title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/bbkacharya/"}
+  
+
+
 ## Office
 <a href="https://abe.ufl.edu/"> 🎓 University of Florida
 </a> <br>

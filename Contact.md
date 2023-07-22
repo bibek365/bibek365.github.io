@@ -24,16 +24,16 @@ Email is the best way to get in touch with me. Please feel free to contact me! <
 <br>
 
 <a href="https://twitter.com/bibekUF">
-  Twitter
+   <img src="twitter.jpeg" alt="twitter" style="width: 50px; height: 50px;"/>
 </a>  
-<br>
 <a href="https://www.linkedin.com/in/bbkacharya/">
-  LinkedIn
+  <img src="linkedin.jpeg" alt="linkedin"style="width: 50px; height: 50px;" />
 </a>  
 
 <br>
-<br>
+
 ## Office
+
 <a href="https://abe.ufl.edu/"> 🎓 University of Florida
 </a> <br>
 1741 Museum Road <br>

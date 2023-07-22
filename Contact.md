@@ -28,7 +28,7 @@ Email is the best way to get in touch with me. Please feel free to contact me! <
 </a>  
 
 <a href="https://www.linkedin.com/in/bbkacharya/">
-  <img src="linkedin.jpeg" alt="linkedin"style="width: 50px; height: 50px;"/>
+  <img src="linkedin.jpeg" alt="linkedin" style="width: 50px; height: 50px;"/>
 </a>  
 
 <br>

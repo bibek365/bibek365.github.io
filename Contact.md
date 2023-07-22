@@ -23,14 +23,14 @@ Email is the best way to get in touch with me. Please feel free to contact me! <
 <br>
 <br>
 
-![Twitter](twitter2.jpeg)
+
 <a href="https://twitter.com/bibekUF">
-  ![Twitter](twitter2.jpeg) Twitter
+   🔗 Twitter
 </a> 
 <br>
-![Linkedin](linkedin2.jpeg)
+
 <a href="https://www.linkedin.com/in/bbkacharya/">
- ![Linkedin](linkedin2.jpeg)Linkedin
+ ✅ Linkedin
 </a>  
 
 <br>

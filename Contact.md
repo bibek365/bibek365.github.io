@@ -21,17 +21,13 @@ Email is the best way to get in touch with me. Please feel free to contact me! <
 </a> 
 (Secondary)
 <br>
-
-
 <a href="https://twitter.com/bibekUF">
    🔗 Twitter
 </a> 
 <br>
-
 <a href="https://www.linkedin.com/in/bbkacharya/">
  ✅ Linkedin
 </a>  
-
 <br>
 
 ## Office

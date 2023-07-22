@@ -5,7 +5,7 @@ layout: page
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <img src="research.jpeg" alt="research highlight"/>
+    <img src="research1.jpeg" alt="research highlight"/>
   </div>
   <div style="flex: 2; margin-left: 20px;">
 <b>Field of Study</b>: My field of study is <a href="https://www.nifa.usda.gov/about-nifa/impacts/dashboard-agricultural-water-use-nutrient-management">agricultural water and nutrient management</a>, employing a multi-disciplinary approach that includes field research, process-based modeling, remote sensing, and machine learning techniques. <br>

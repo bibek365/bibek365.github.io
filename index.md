@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: ""
 layout: page
 ---
 <!--![Bibek](Picture2.jpeg) -->

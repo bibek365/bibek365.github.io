@@ -6,7 +6,6 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-remote_theme: pages-themes/midnight@v0.2.0
 
 # Layout
 

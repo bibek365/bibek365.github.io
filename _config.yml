@@ -20,9 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.html"}
   - {title: "Blog", file: "Blog.md"}
   - {title: "Gallery", file: "Gallery.md"}
+  - {title: "Research", file: "Research.md"}
   - {title: "Resume", url: "https://bibek365.github.io/Resume.pdf"}
   - {title: "CV", url: "https://bibek365.github.io/Curriculum Vitae_Bibek Acharya.pdf"}
-  - {title: "Research", file: "Research.md"}
   - {title: "Contact", file: "Contact.md"}
  
 

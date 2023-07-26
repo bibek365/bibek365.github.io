@@ -6,7 +6,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-
+rss_feed_url: https://rss.app/feeds/go3ZVuVdpvJPL4f0.xml
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
@@ -19,7 +19,6 @@ minimal: true            # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.html"}
   - {title: "Blog", file: "Blog.md"}
-  - {title: "Feed", file: "Feed.md"}
   - {title: "Gallery", file: "Gallery.md"}
   - {title: "Research", file: "Research.md"}
   - {title: "Resume", url: "https://bibek365.github.io/Resume.pdf"}

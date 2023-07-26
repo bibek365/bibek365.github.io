@@ -1,1 +1,4 @@
-<a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
+
+RSS feed file for Twitter @bibekUF
+[![RSS](https://example.com/rss-icon.png)](feed.xml)
+

@@ -1,18 +1,317 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<root>
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>Example RSS Feed</title>
-      <link>https://example.com/rss-feed</link>
-      <description>This is an example RSS feed.</description>
-      <atom:link href="https://rss.app/feeds/go3ZVuVdpvJPL4f0.xml" rel="self" type="application/rss+xml" />
-      <!-- Add more items here, each representing an article or entry -->
-      <item>
-        <title>Article 1</title>
-        <link>https://example.com/article1</link>
-        <description>This is the content of Article 1.</description>
-        <!-- Additional item elements for other articles -->
-      </item>
-    </channel>
-  </rss>
-</root>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>
+<![CDATA[ #@bibekUF / Twitter Search ]]>
+</title>
+<description>
+<![CDATA[ #@bibekUF / Twitter Search ]]>
+</description>
+<link>https://twitter.com/search?q=%23@bibekUF</link>
+<image>
+<url>https://abs.twimg.com/favicons/favicon.ico</url>
+<title>#@bibekUF / Twitter Search</title>
+<link>https://twitter.com/search?q=%23@bibekUF</link>
+</image>
+<generator>https://rss.app</generator>
+<lastBuildDate>Wed, 26 Jul 2023 00:44:19 GMT</lastBuildDate>
+<atom:link href="https://rss.app/feeds/go3ZVuVdpvJPL4f0.xml" rel="self" type="application/rss+xml"/>
+<language>
+<![CDATA[ en ]]>
+</language>
+<item>
+<title>
+<![CDATA[ @VivekSharmaUF: Precision Water Management lab member @bibekUF presenting his research on sod based rotational production system as a potential BMP in reducing the environmental nitrogen loading at #ASABE23. ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Precision Water Management lab member <a href="https://twitter.com/bibekUF?ref_src=twsrc%5Etfw">@bibekUF</a> presenting his research on sod based rotational production system as a potential BMP in reducing the environmental nitrogen loading at <a href="https://twitter.com/hashtag/ASABE23?src=hash&ref_src=twsrc%5Etfw">#ASABE23</a>. <a href="https://t.co/t2bsBodXro">pic.twitter.com/t2bsBodXro</a></p>— Vivek Sharma (@VivekSharmaUF) <a href="https://twitter.com/VivekSharmaUF/status/1678510288641966080?ref_src=twsrc%5Etfw">July 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/VivekSharmaUF/status/1678510288641966080</link>
+<guid isPermaLink="false">7c680048912318766c2755fe1a85eba3</guid>
+<dc:creator>
+<![CDATA[ @VivekSharmaUF ]]>
+</dc:creator>
+<pubDate>Mon, 10 Jul 2023 21:03:32 GMT</pubDate>
+<media:content medium="image" url="https://pbs.twimg.com/media/F0tENExXwAkI8RP.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ @VivekSharmaUF: Congratulations @bibekUF @Sidhu_Soil_H2O @FLWater @mddukes and Lincoln Zotarelli for receiving the #ASABE23 Educational Aids Blue Ribbon paper award for UF EDIS publication “Methods to Quantify in-field Nutrient Leaching” ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Congratulations <a href="https://twitter.com/bibekUF?ref_src=twsrc%5Etfw">@bibekUF</a> <a href="https://twitter.com/Sidhu_Soil_H2O?ref_src=twsrc%5Etfw">@Sidhu_Soil_H2O</a> <a href="https://twitter.com/FLWater?ref_src=twsrc%5Etfw">@FLWater</a> <a href="https://twitter.com/mddukes?ref_src=twsrc%5Etfw">@mddukes</a> and Lincoln Zotarelli for receiving the <a href="https://twitter.com/hashtag/ASABE23?src=hash&ref_src=twsrc%5Etfw">#ASABE23</a> Educational Aids Blue Ribbon paper award for UF EDIS publication “Methods to Quantify in-field Nutrient Leaching” <a href="https://t.co/SS6AZ7B8cm">https://t.co/SS6AZ7B8cm</a>. <a href="https://t.co/Ai5Bu5GpjF">pic.twitter.com/Ai5Bu5GpjF</a></p>— Vivek Sharma (@VivekSharmaUF) <a href="https://twitter.com/VivekSharmaUF/status/1678504965596147712?ref_src=twsrc%5Etfw">July 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/VivekSharmaUF/status/1678504965596147712</link>
+<guid isPermaLink="false">9137640e048ba2154f085d9e50d6a8c8</guid>
+<dc:creator>
+<![CDATA[ @VivekSharmaUF ]]>
+</dc:creator>
+<pubDate>Mon, 10 Jul 2023 20:42:23 GMT</pubDate>
+<media:content medium="image" url="https://pbs.twimg.com/media/F0s_Xh0XoAMOsKp.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ @bibekUF: Many thanks to Water Institute @ufwater , my advisor Dr. Vivek Sharma @VivekSharmaUF, and the ABE family @UF_ABE . ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Many thanks to Water Institute <a href="https://twitter.com/ufwater?ref_src=twsrc%5Etfw">@ufwater</a> , my advisor Dr. Vivek Sharma <a href="https://twitter.com/VivekSharmaUF?ref_src=twsrc%5Etfw">@VivekSharmaUF</a>, and the ABE family <a href="https://twitter.com/UF_ABE?ref_src=twsrc%5Etfw">@UF_ABE</a> . <a href="https://t.co/y0BkHN4dgF">https://t.co/y0BkHN4dgF</a></p>— Bibek Acharya (@bibekUF) <a href="https://twitter.com/bibekUF/status/1672115509805060096?ref_src=twsrc%5Etfw">June 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/bibekUF/status/1672115509805060096</link>
+<guid isPermaLink="false">cc6fe414fd4bbd347ba91adec7894254</guid>
+<dc:creator>
+<![CDATA[ @bibekUF ]]>
+</dc:creator>
+<pubDate>Fri, 23 Jun 2023 05:32:58 GMT</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ @VivekSharmaUF: Great time attending the #FLASABE2023 conference. Great job by Precision Water Mgmt. Lab members in presenting their research @bibekUF @Morgan_Morrow_ @Varshitha_P1 @RakeshSingh_UF @bhanuprakash559 Humbled to received the #FLASABE2023 Young Researcher Award! ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Great time attending the <a href="https://twitter.com/hashtag/FLASABE2023?src=hash&ref_src=twsrc%5Etfw">#FLASABE2023</a> conference. Great job by Precision Water Mgmt. Lab members in presenting their research <a href="https://twitter.com/bibekUF?ref_src=twsrc%5Etfw">@bibekUF</a> <a href="https://twitter.com/Morgan_Morrow_?ref_src=twsrc%5Etfw">@Morgan_Morrow_</a> <a href="https://twitter.com/Varshitha_P1?ref_src=twsrc%5Etfw">@Varshitha_P1</a> <a href="https://twitter.com/RakeshSingh_UF?ref_src=twsrc%5Etfw">@RakeshSingh_UF</a> <a href="https://twitter.com/bhanuprakash559?ref_src=twsrc%5Etfw">@bhanuprakash559</a> <br>Humbled to received the <a href="https://twitter.com/hashtag/FLASABE2023?src=hash&ref_src=twsrc%5Etfw">#FLASABE2023</a> Young Researcher Award! <a href="https://t.co/Ozagt6uGtR">pic.twitter.com/Ozagt6uGtR</a></p>— Vivek Sharma (@VivekSharmaUF) <a href="https://twitter.com/VivekSharmaUF/status/1666985001592709120?ref_src=twsrc%5Etfw">June 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/VivekSharmaUF/status/1666985001592709120</link>
+<guid isPermaLink="false">ba61a2233462f8cde85311178aac1801</guid>
+<dc:creator>
+<![CDATA[ @VivekSharmaUF ]]>
+</dc:creator>
+<pubDate>Fri, 09 Jun 2023 01:46:10 GMT</pubDate>
+<media:content medium="image" url="https://pbs.twimg.com/media/FyJSBXhXwAATV1d.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ @VivekSharmaUF: Integration of perennial grasses in a conventional corn-peanut system along with Best Management irrigation and nitrogen Practices can helps reduce environmental nitrogen load. @bibekUF presenting his research at #FLASABE @ABE @nfrec_sv @Sidhu_Soil_H2O @mddukes ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Integration of perennial grasses in a conventional corn-peanut system along with Best Management irrigation and nitrogen Practices can helps reduce environmental nitrogen load. <a href="https://twitter.com/bibekUF?ref_src=twsrc%5Etfw">@bibekUF</a> presenting his research at <a href="https://twitter.com/hashtag/FLASABE?src=hash&ref_src=twsrc%5Etfw">#FLASABE</a> <a href="https://twitter.com/abe?ref_src=twsrc%5Etfw">@ABE</a> <a href="https://twitter.com/nfrec_sv?ref_src=twsrc%5Etfw">@nfrec_sv</a> <a href="https://twitter.com/Sidhu_Soil_H2O?ref_src=twsrc%5Etfw">@Sidhu_Soil_H2O</a> <a href="https://twitter.com/mddukes?ref_src=twsrc%5Etfw">@mddukes</a> <a href="https://t.co/S2g4jtcG9l">pic.twitter.com/S2g4jtcG9l</a></p>— Vivek Sharma (@VivekSharmaUF) <a href="https://twitter.com/VivekSharmaUF/status/1666102780770041860?ref_src=twsrc%5Etfw">June 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/VivekSharmaUF/status/1666102780770041860</link>
+<guid isPermaLink="false">6a7288d4ed479eb859bb50461a42241f</guid>
+<dc:creator>
+<![CDATA[ @VivekSharmaUF ]]>
+</dc:creator>
+<pubDate>Tue, 06 Jun 2023 15:20:32 GMT</pubDate>
+<media:content medium="image" url="https://pbs.twimg.com/media/Fx8vpJHaYAUP38Q.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ @bibekUF: Fun gets doubled when you get to celebrate New Year Day twice in a Year. Happy New year 2080 to all the Nepalese out there. 🇳🇵🇺🇸 ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Fun gets doubled when you get to celebrate New Year Day twice in a Year. Happy New year 2080 to all the Nepalese out there. 🇳🇵🇺🇸 <a href="https://t.co/1OzbQv0FFH">pic.twitter.com/1OzbQv0FFH</a></p>— Bibek Acharya (@bibekUF) <a href="https://twitter.com/bibekUF/status/1646994127102304258?ref_src=twsrc%5Etfw">April 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/bibekUF/status/1646994127102304258</link>
+<guid isPermaLink="false">8b3f5cad8a6e412b0a8100269bab6435</guid>
+<dc:creator>
+<![CDATA[ @bibekUF ]]>
+</dc:creator>
+<pubDate>Fri, 14 Apr 2023 21:49:34 GMT</pubDate>
+<media:content medium="image" url="https://pbs.twimg.com/media/FttLppNX0AA6kfv.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ @bibekUF: Suggestions needed! Chlorosis (yellowing leaves) patch was noticed in peanut 🥜🥜field during 2022 📆growing season. Can’t decide whether its nematode🪱related or nutrient deficiency⬇️. Pic Location: Live Oak FL 🇺🇸 ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Suggestions needed! Chlorosis (yellowing leaves) patch was noticed in peanut 🥜🥜field during 2022 📆growing season. Can’t decide whether its nematode🪱related or nutrient deficiency⬇️. <br>Pic Location: Live Oak FL 🇺🇸 <a href="https://t.co/aw2OIVCPxq">pic.twitter.com/aw2OIVCPxq</a></p>— Bibek Acharya (@bibekUF) <a href="https://twitter.com/bibekUF/status/1643120023223795714?ref_src=twsrc%5Etfw">April 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/bibekUF/status/1643120023223795714</link>
+<guid isPermaLink="false">39e5e91646f012ab09af39c30dd0ba7c</guid>
+<dc:creator>
+<![CDATA[ @bibekUF ]]>
+</dc:creator>
+<pubDate>Tue, 04 Apr 2023 05:15:15 GMT</pubDate>
+<media:content medium="image" url="https://pbs.twimg.com/media/Fs2IJorWIAEIMnl.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ @bibekUF: I believe these are moisture🫧ants🐜building their nest 🪹 in some of our soil moisture🫧sensors. Although they may not alter the moisture readings, you are at risk from being stinged🐜while in the field☘️. #AntsintheSensors Picture Location: LiveOak, FL ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">I believe these are moisture🫧ants🐜building their nest 🪹 in some of our soil moisture🫧sensors. Although they may not alter the moisture readings, you are at risk from being stinged🐜while in the field☘️. <a href="https://twitter.com/hashtag/AntsintheSensors?src=hash&ref_src=twsrc%5Etfw">#AntsintheSensors</a> Picture Location: LiveOak, FL <a href="https://t.co/kJfHx4W4e9">pic.twitter.com/kJfHx4W4e9</a></p>— Bibek Acharya (@bibekUF) <a href="https://twitter.com/bibekUF/status/1640962869456953344?ref_src=twsrc%5Etfw">March 29, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/bibekUF/status/1640962869456953344</link>
+<guid isPermaLink="false">044fc5cd99920d708c94e2982598de95</guid>
+<dc:creator>
+<![CDATA[ @bibekUF ]]>
+</dc:creator>
+<pubDate>Wed, 29 Mar 2023 06:23:30 GMT</pubDate>
+<media:content medium="image" url="https://pbs.twimg.com/media/FsXdRB1WYAEdBx2.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ @Sidhu_Soil_H2O: Great Job @bibekUF on this EDIS publication. ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Great Job <a href="https://twitter.com/bibekUF?ref_src=twsrc%5Etfw">@bibekUF</a> on this EDIS publication. <a href="https://t.co/eaorRaB1E9">https://t.co/eaorRaB1E9</a></p>— Sudeep Singh Sidhu, Ph.D. (@Sidhu_Soil_H2O) <a href="https://twitter.com/Sidhu_Soil_H2O/status/1621325462667509761?ref_src=twsrc%5Etfw">February 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/Sidhu_Soil_H2O/status/1621325462667509761</link>
+<guid isPermaLink="false">79be313200e79e8e2f65bc8d008a7be5</guid>
+<dc:creator>
+<![CDATA[ @Sidhu_Soil_H2O ]]>
+</dc:creator>
+<pubDate>Fri, 03 Feb 2023 01:51:27 GMT</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ @bibekUF: Nitrate leaching is one of the major contributors to degradation of water bodies globally. Check out this publication📑where we summarize nitrate leaching quantification methods in field condition. Thanks to all the co-authors for the invaluable input🙂. ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Nitrate leaching is one of the major contributors to degradation of water bodies globally. Check out this publication📑where we summarize nitrate leaching quantification methods in field condition. Thanks to all the co-authors for the invaluable input🙂.<a href="https://t.co/Y2jUufF4SB">https://t.co/Y2jUufF4SB</a></p>— Bibek Acharya (@bibekUF) <a href="https://twitter.com/bibekUF/status/1621256507575750658?ref_src=twsrc%5Etfw">February 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/bibekUF/status/1621256507575750658</link>
+<guid isPermaLink="false">35c86620a52c1eef6fb1c96e3465dc27</guid>
+<dc:creator>
+<![CDATA[ @bibekUF ]]>
+</dc:creator>
+<pubDate>Thu, 02 Feb 2023 21:17:27 GMT</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ @bibekUF: Soil water💦characterstics curve helps understand the fate of water in the soil. Here is an attempt to develop it for NorthFlorida Fine Sand. Thanks for helping hands. #PhD #ModelingSoilWater #UF_ABE #TempeCells ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Soil water💦characterstics curve helps understand the fate of water in the soil. Here is an attempt to develop it for NorthFlorida Fine Sand. Thanks for helping hands. <a href="https://twitter.com/hashtag/PhD?src=hash&ref_src=twsrc%5Etfw">#PhD</a> <a href="https://twitter.com/hashtag/ModelingSoilWater?src=hash&ref_src=twsrc%5Etfw">#ModelingSoilWater</a> <a href="https://twitter.com/hashtag/UF_ABE?src=hash&ref_src=twsrc%5Etfw">#UF_ABE</a> <a href="https://twitter.com/hashtag/TempeCells?src=hash&ref_src=twsrc%5Etfw">#TempeCells</a> <a href="https://t.co/3avMNqE8RG">pic.twitter.com/3avMNqE8RG</a></p>— Bibek Acharya (@bibekUF) <a href="https://twitter.com/bibekUF/status/1578740671401570305?ref_src=twsrc%5Etfw">October 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/bibekUF/status/1578740671401570305</link>
+<guid isPermaLink="false">7eb9cdf022fbb9026c7e0a51ad36ca78</guid>
+<dc:creator>
+<![CDATA[ @bibekUF ]]>
+</dc:creator>
+<pubDate>Sat, 08 Oct 2022 13:34:42 GMT</pubDate>
+<media:content medium="image" url="https://pbs.twimg.com/media/FejQRUqVIAIWQJ4.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ @bibekUF: Some of North-Floridians are busy this week harvesting peanuts🥜before possible Tropical Depression 🌀nine hits 👊next week 🗓. The video below shows how the peanut🥜harvest was being undertaken today at North Florida Research and Extension Center sod crop rotation Study. @video1 ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Some of North-Floridians are busy this week harvesting peanuts🥜before possible Tropical Depression 🌀nine hits 👊next week 🗓. The video below shows how the peanut🥜harvest was being undertaken today at North Florida Research and Extension Center sod crop rotation Study. <a href="https://twitter.com/Video1?ref_src=twsrc%5Etfw">@video1</a> <a href="https://t.co/PwjpyCiSzt">pic.twitter.com/PwjpyCiSzt</a></p>— Bibek Acharya (@bibekUF) <a href="https://twitter.com/bibekUF/status/1573462477962084368?ref_src=twsrc%5Etfw">September 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/bibekUF/status/1573462477962084368</link>
+<guid isPermaLink="false">5b8506f5b9d95f55ade083bf7da340df</guid>
+<dc:creator>
+<![CDATA[ @bibekUF ]]>
+</dc:creator>
+<pubDate>Sat, 24 Sep 2022 00:01:02 GMT</pubDate>
+<media:content medium="image" url="https://pbs.twimg.com/ext_tw_video_thumb/1573462396462571523/pu/img/JXT9fxb2M608TE9R.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ @bibekUF: Another episode of core sampling ⏳. This time we went a meter 📏 deep. It will be interesting to see if bulk density and hydraulic 💦conductivity vary among production systems that includes bahia grass. Thanks for helping hands. @VivekSharmaUF @fort_josue and Rakesh Singh. ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Another episode of core sampling ⏳. This time we went a meter 📏 deep. It will be interesting to see if bulk density and hydraulic 💦conductivity vary among production systems that includes bahia grass. Thanks for helping hands. <a href="https://twitter.com/VivekSharmaUF?ref_src=twsrc%5Etfw">@VivekSharmaUF</a> <a href="https://twitter.com/fort_josue?ref_src=twsrc%5Etfw">@fort_josue</a> and Rakesh Singh. <a href="https://t.co/O5ze3fzwgG">pic.twitter.com/O5ze3fzwgG</a></p>— Bibek Acharya (@bibekUF) <a href="https://twitter.com/bibekUF/status/1562919419780767744?ref_src=twsrc%5Etfw">August 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/bibekUF/status/1562919419780767744</link>
+<guid isPermaLink="false">b79a14a407cd1247d7d23bef8de6f525</guid>
+<dc:creator>
+<![CDATA[ @bibekUF ]]>
+</dc:creator>
+<pubDate>Thu, 25 Aug 2022 21:46:41 GMT</pubDate>
+<media:content medium="image" url="https://pbs.twimg.com/media/FbCa7UaWAAA7zGJ.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ @Morgan_Morrow_: Corn CRF trial harvested and classes starting back up, busy couple of weeks! @nfrec_sv @UF_ABE @VivekSharmaUF @bibekUF ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Corn CRF trial harvested and classes starting back up, busy couple of weeks! <a href="https://twitter.com/nfrec_sv?ref_src=twsrc%5Etfw">@nfrec_sv</a> <a href="https://twitter.com/UF_ABE?ref_src=twsrc%5Etfw">@UF_ABE</a> <a href="https://twitter.com/VivekSharmaUF?ref_src=twsrc%5Etfw">@VivekSharmaUF</a> <a href="https://twitter.com/bibekUF?ref_src=twsrc%5Etfw">@bibekUF</a> <a href="https://t.co/NfJzPVqEUC">pic.twitter.com/NfJzPVqEUC</a></p>— Morgan Morrow (@Morgan_Morrow_) <a href="https://twitter.com/Morgan_Morrow_/status/1562469770720489473?ref_src=twsrc%5Etfw">August 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/Morgan_Morrow_/status/1562469770720489473</link>
+<guid isPermaLink="false">99b81673af66ee2c756bb5801a823377</guid>
+<dc:creator>
+<![CDATA[ @Morgan_Morrow_ ]]>
+</dc:creator>
+<pubDate>Wed, 24 Aug 2022 15:59:57 GMT</pubDate>
+<media:content medium="image" url="https://pbs.twimg.com/media/Fa8B9J2UsAAIMex.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ @bibekUF: Field 🌾Visits are tiring yet fulfilling . Pictures below were captured in the act of measuring saturated💦 hydraulic💧💧 conductivity & bulk 🅱️ density. #SoilWaterDynamics ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Field 🌾Visits are tiring yet fulfilling . Pictures below were captured in the act of measuring saturated💦 hydraulic💧💧 conductivity & bulk 🅱️ density. <a href="https://twitter.com/hashtag/SoilWaterDynamics?src=hash&ref_src=twsrc%5Etfw">#SoilWaterDynamics</a> <a href="https://t.co/ptmhk1qJi3">pic.twitter.com/ptmhk1qJi3</a></p>— Bibek Acharya (@bibekUF) <a href="https://twitter.com/bibekUF/status/1560428429585121281?ref_src=twsrc%5Etfw">August 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/bibekUF/status/1560428429585121281</link>
+<guid isPermaLink="false">cdbc880ed6bdac1dab7f2f761be2c271</guid>
+<dc:creator>
+<![CDATA[ @bibekUF ]]>
+</dc:creator>
+<pubDate>Fri, 19 Aug 2022 00:48:23 GMT</pubDate>
+<media:content medium="image" url="https://pbs.twimg.com/media/FafBYlCWAAACvOn.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ @bibekUF: Snapshots from yesterday's day☀️out on the field. The highlight of the day was water 🫧sampling from the drain gauge G3 lysimeter. The objective is to use field experiments, process-based models, 📈and machine learning models 📉 to quantify Nitrogen fate in the soil. #PhDdissert ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Snapshots from yesterday's day☀️out on the field. The highlight of the day was water 🫧sampling from the drain gauge G3 lysimeter. The objective is to use field experiments, process-based models, 📈and machine learning models 📉 to quantify Nitrogen fate in the soil. <a href="https://twitter.com/hashtag/PhDdissert?src=hash&ref_src=twsrc%5Etfw">#PhDdissert</a> <a href="https://t.co/oR1Q7fSRPu">pic.twitter.com/oR1Q7fSRPu</a></p>— Bibek Acharya (@bibekUF) <a href="https://twitter.com/bibekUF/status/1549714847461478401?ref_src=twsrc%5Etfw">July 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/bibekUF/status/1549714847461478401</link>
+<guid isPermaLink="false">5277f546a19e2ff5e5dd396163d49999</guid>
+<dc:creator>
+<![CDATA[ @bibekUF ]]>
+</dc:creator>
+<pubDate>Wed, 20 Jul 2022 11:16:26 GMT</pubDate>
+<media:content medium="image" url="https://pbs.twimg.com/media/FYGw9nTWAAA5NbI.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ @bibekUF: Helpful Resources. Kudos for sharing !! ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Helpful Resources. Kudos for sharing !! <a href="https://t.co/L55RakhhAV">https://t.co/L55RakhhAV</a></p>— Bibek Acharya (@bibekUF) <a href="https://twitter.com/bibekUF/status/1543543993845383168?ref_src=twsrc%5Etfw">July 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/bibekUF/status/1543543993845383168</link>
+<guid isPermaLink="false">c6d3c53e3d737f6b2f8cab79c3e838b7</guid>
+<dc:creator>
+<![CDATA[ @bibekUF ]]>
+</dc:creator>
+<pubDate>Sun, 03 Jul 2022 10:35:40 GMT</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ @bibekUF: Sargassum ~ seaweed are extremely important for ecosystem 🌎. However, they are creating havoc at Shorelines 🏖. A sustainable solution is needed. Location: Clearwater, FL ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Sargassum ~ seaweed are extremely important for ecosystem 🌎. However, they are creating havoc at Shorelines 🏖. A sustainable solution is needed. Location: Clearwater, FL <a href="https://t.co/OIamYwzXo5">pic.twitter.com/OIamYwzXo5</a></p>— Bibek Acharya (@bibekUF) <a href="https://twitter.com/bibekUF/status/1541453502437801990?ref_src=twsrc%5Etfw">June 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/bibekUF/status/1541453502437801990</link>
+<guid isPermaLink="false">924f0e2872750f1a11fb97c486ebed4c</guid>
+<dc:creator>
+<![CDATA[ @bibekUF ]]>
+</dc:creator>
+<pubDate>Mon, 27 Jun 2022 16:08:48 GMT</pubDate>
+<media:content medium="image" url="https://pbs.twimg.com/media/FWRXye6XoAA7esT.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ @bibekUF: Day Temperatures above 90 F and lower difference between day and night temperatures are bound to impact plant size and yield components. #corn #leafRoll #ThirstyCorns #waterforLife ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Day Temperatures above 90 F and lower difference between day and night temperatures are bound to impact plant size and yield components. <a href="https://twitter.com/hashtag/corn?src=hash&ref_src=twsrc%5Etfw">#corn</a> <a href="https://twitter.com/hashtag/leafRoll?src=hash&ref_src=twsrc%5Etfw">#leafRoll</a> <a href="https://twitter.com/hashtag/ThirstyCorns?src=hash&ref_src=twsrc%5Etfw">#ThirstyCorns</a> <a href="https://twitter.com/hashtag/waterforLife?src=hash&ref_src=twsrc%5Etfw">#waterforLife</a> <a href="https://t.co/UTZi7C93RQ">pic.twitter.com/UTZi7C93RQ</a></p>— Bibek Acharya (@bibekUF) <a href="https://twitter.com/bibekUF/status/1540558315494719489?ref_src=twsrc%5Etfw">June 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/bibekUF/status/1540558315494719489</link>
+<guid isPermaLink="false">3b8327aed388838aa8e1c778999a7e71</guid>
+<dc:creator>
+<![CDATA[ @bibekUF ]]>
+</dc:creator>
+<pubDate>Sat, 25 Jun 2022 04:51:39 GMT</pubDate>
+<media:content medium="image" url="https://pbs.twimg.com/media/FWEpntDXoAEaYGJ.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ @bibekUF: Very Interesting talk on World Vision. Glad to have attended. ]]>
+</title>
+<description>
+<![CDATA[ <blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Very Interesting talk on World Vision. Glad to have attended. <a href="https://t.co/jqL9MHG0vN">https://t.co/jqL9MHG0vN</a></p>— Bibek Acharya (@bibekUF) <a href="https://twitter.com/bibekUF/status/1533868878643748868?ref_src=twsrc%5Etfw">June 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> ]]>
+</description>
+<link>https://twitter.com/bibekUF/status/1533868878643748868</link>
+<guid isPermaLink="false">5c123a1723d6d0572d9089f22be00674</guid>
+<dc:creator>
+<![CDATA[ @bibekUF ]]>
+</dc:creator>
+<pubDate>Mon, 06 Jun 2022 17:50:13 GMT</pubDate>
+</item>
+</channel>
+</rss>

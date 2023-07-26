@@ -1,4 +1,5 @@
+<a class="btn btn-rss" href="/feed.xml" target="_blank">RSS feed-Twitter</a>
 
-RSS feed file for Twitter @bibekUF
-[![RSS](https://example.com/rss-icon.png)](feed.xml)
+# Postscript
 
+Thank you for reading my Twitter feed! To access the feed make sure to add RSS feed reader extension in your browser.

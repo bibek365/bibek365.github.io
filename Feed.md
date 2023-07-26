@@ -5,7 +5,7 @@
     <channel>
       <title>Example RSS Feed</title>
       <link>https://example.com/rss-feed</link>
-      <description>This is an example RSS feed.</description>
+      <description>Twitter feed.</description>
       <atom:link href="https://rss.app/feeds/go3ZVuVdpvJPL4f0.xml" rel="self" type="application/rss+xml" />
       <!-- Add more items here, each representing an article or entry -->
       <item>

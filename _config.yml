@@ -19,7 +19,6 @@ minimal: true            # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.html"}
   - {title: "Blog", file: "Blog.md"}
-  - {title: "Twitter-Feed", file: "Feed.md"}
   - {title: "Gallery", file: "Gallery.md"}
   - {title: "Research", file: "Research.md"}
   - {title: "Resume", url: "https://bibek365.github.io/Resume.pdf"}

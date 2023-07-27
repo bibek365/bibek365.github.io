@@ -26,7 +26,7 @@ Email is the best way to get in touch with me. Please feel free to contact me! <
 🔗 Twitter 
 </a> <br>
 <a href="https://www.linkedin.com/in/bbkacharya/">
-✅ Linkedin 
+🚀 Linkedin 
 </a>  
 <a href="https://scholar.google.com/citations?user=k5Fv3cMAAAAJ&hl=en">
 📘 Google Scholar 

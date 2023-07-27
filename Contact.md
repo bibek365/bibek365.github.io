@@ -8,7 +8,7 @@ title: "Let's Connect ✌"
 Email is the best way to get in touch with me. Please feel free to contact me! <br>
 
 <a href="tel:PHONE_NUMBER">
- ☎ (352) 562-4682
+ 📱 (352) 562-4682
 </a> <br>
 
 <a href="mailto:EMAIL_ADDRESS">
@@ -21,18 +21,16 @@ Email is the best way to get in touch with me. Please feel free to contact me! <
 </a> 
 (Secondary)
 <br>
-<a href="https://twitter.com/bibekUF">
-Χ Twitter 
-</a> 
 <br>
+<a href="https://twitter.com/bibekUF">
+🔗 Twitter 
+</a> 
 <a href="https://www.linkedin.com/in/bbkacharya/">
 ✅ Linkedin 
 </a>  
-<br>
 <a href="https://scholar.google.com/citations?user=k5Fv3cMAAAAJ&hl=en">
 📘 Google Scholar 
 </a>  
-<br>
 <a href="https://www.researchgate.net/profile/Bibek-Acharya-9">
 📜 ResearchGate
 </a>  

@@ -29,11 +29,9 @@ Email is the best way to get in touch with me. Please feel free to contact me! <
  ✅ Linkedin
 </a>  
 <br>
-<br>
 <a href="https://scholar.google.com/citations?user=k5Fv3cMAAAAJ&hl=en">
  ✅ Google Scholar
 </a>  
-<br>
 <br>
 <a href="https://www.researchgate.net/profile/Bibek-Acharya-9">
  ✅ ResearchGate

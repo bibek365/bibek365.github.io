@@ -34,7 +34,7 @@ Email is the best way to get in touch with me. Please feel free to contact me! <
 
 ## Office
 
-<a href="https://abe.ufl.edu/"> 📍 Texas A&M Agrilife Research
+<a href="https://abe.ufl.edu/"> 🏫 Texas A&M Agrilife Research
 </a> <br>
 P.O. Box 1658 <br>
 Vernon, TX 76385

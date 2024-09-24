@@ -7,12 +7,8 @@ title: "Let's Connect ✌"
 
 Email is the best way to get in touch with me. Please feel free to contact me! <br>
 
-<a href="tel:PHONE_NUMBER">
- 📱 (352) 562-4682
-</a> <br>
-
 <a href="mailto:EMAIL_ADDRESS">
-  📧 bibekacharya@ufl.edu 
+  📧 bibek.acharya@ag.tamu.edu 
 </a> 
 (Primary)
 <br>
@@ -22,7 +18,7 @@ Email is the best way to get in touch with me. Please feel free to contact me! <
 (Secondary)
 <br>
 <br>
-<a href="https://twitter.com/bibekUF">
+<a href="https://x.com/BibekTAMU_">
 🔗 Twitter 
 </a> <br>
 <a href="https://www.linkedin.com/in/bbkacharya/">
@@ -38,9 +34,8 @@ Email is the best way to get in touch with me. Please feel free to contact me! <
 
 ## Office
 
-<a href="https://abe.ufl.edu/"> 🎓 University of Florida
+<a href="https://abe.ufl.edu/"> 🎓 Texas A&M Agrilife Research
 </a> <br>
-1741 Museum Road <br>
-Gainesville, FL 32611
-
+P.O. Box 1658 <br>
+Vernon, TX 76385
 
